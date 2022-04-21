@@ -12,33 +12,33 @@ function AboutMe() {
       <h1 className="self-center m-8 px-4 text-white text-xl font-bold mb-6">
         PERSONAL INFO
       </h1>
-      <div className="mx-8 py-6 px-4 rounded-md flex-col sm:flex justify-around">
+      <div className="py-6 px-4 rounded-md flex-col sm:flex justify-around">
         <div className="flex flex-col justify-center space-y-4">
-          <div className="flex text-white text-xl space-x-5">
+          <div className="flex text-white text-xl space-x-4">
             <h1>Name :</h1>
             <span className="text-gray-500 text-xl">Lokesh Kaloni</span>
           </div>
-          <div className="flex text-white text-xl space-x-5">
+          <div className="flex text-white text-xl space-x-4">
             <h1>Age :</h1>
             <span className="text-gray-500 text-xl">23</span>
           </div>
-          <div className="flex text-white text-xl space-x-5">
+          <div className="flex text-white text-xl space-x-4">
             <h1>Freelance :</h1>
             <span className="text-gray-500 text-xl">Available</span>
           </div>
         </div>
         <div className="flex flex-col justify-center space-y-4">
-          <div className="flex text-white text-xl space-x-5">
+          <div className="flex text-white text-xl space-x-4">
             <h1>Nationality :</h1>
             <span className="text-gray-500 text-xl">Indian</span>
           </div>
-          <div className="flex text-white text-xl space-x-5">
+          <div className="flex text-white text-xl space-x-4">
             <h1>Email :</h1>
             <span className="text-gray-500 text-xl">
               lokeshkaloni@gmail.com
             </span>
           </div>
-          <div className="flex text-white text-xl space-x-5">
+          <div className="flex text-white text-xl space-x-4">
             <h1>Languages :</h1>
             <span className="text-gray-500 text-xl">English,Hindi</span>
           </div>

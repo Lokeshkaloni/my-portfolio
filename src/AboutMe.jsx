@@ -63,7 +63,7 @@ function AboutMe() {
       <h1 className="self-center mt-16 px-4 text-white text-xl font-bold mb-6">
         EXPERIENCE AND EDUCATION
       </h1>
-      <div className="flex flex-col text-white self-center px-2 py-6">
+      <div className="flex flex-col text-white self-center px-2 py-6 flex-wrap">
         <div className="px-6 py-2 border rounded-md h-22">
           <h1 className="text-yellow-500">Web Developer</h1>
           <span>

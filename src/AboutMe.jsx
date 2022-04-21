@@ -12,7 +12,7 @@ function AboutMe() {
       <h1 className="self-center m-8 px-4 text-white text-xl font-bold mb-6">
         PERSONAL INFO
       </h1>
-      <div className="py-6 px-4 rounded-md flex flex-col sm:flex-row justify-around space-y-4">
+      <div className="py-6 px-4 rounded-md flex flex-col sm:flex-row self-center sm:space-x-48 justify-around space-y-4 sm:space-y-0">
         <div className="flex flex-col justify-center space-y-4">
           <div className="flex text-white text-xl space-x-4">
             <h1>Name :</h1>

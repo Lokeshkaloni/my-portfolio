@@ -12,7 +12,7 @@ function Homepage() {
         </h1>
         <span className="text-white text-3xl font-bold">WEB DESIGNER</span>
       </div>
-      <p className="text-white flex flex-col justify-center items-center">
+      <p className="text-white flex flex-col justify-center items-center text-center">
         <span>
           I'am a india based web-designer and front-end developer focused on
           crafting

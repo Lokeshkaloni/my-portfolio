@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function AboutMe() {
   return (
-    <div className="h-screen w-full bg-black space-y-4 flex flex-col flex-wrap">
+    <div className="h-full w-full bg-black space-y-4 flex flex-col flex-wrap">
       <div className="flex justify-center py-10">
         <h1 className="text-yellow-500 text-5xl font-extrabold">
           ABOUT<span className="text-white text-5xl font-extrabold">ME</span>

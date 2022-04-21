@@ -2,8 +2,8 @@ import React from "react";
 import MyLink from "./MyLink";
 import { ImHome } from "react-icons/im";
 import { SiAboutdotme } from "react-icons/si";
-import { MdContactPage } from "react-icons/Md";
-import { GrProjects } from "react-icons/Gr";
+import { MdContactPage } from "react-icons/md";
+import { GrProjects } from "react-icons/gr";
 
 function NavBar() {
   return (

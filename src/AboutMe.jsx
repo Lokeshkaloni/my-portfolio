@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 
 function AboutMe() {
   return (
-    <div className="h-screen w-screen bg-black space-y-4 flex flex-col">
+    <div className="h-full w-screen bg-black space-y-4 flex flex-col p-2">
       <div className="flex justify-center py-10">
         <h1 className="text-yellow-500 text-5xl font-extrabold">
-          ABOUT<span className="text-white text-5xl font-extrabold">ME</span>
+          ABOUT<span className="text-white text-5xl font-extrabold"> ME</span>
         </h1>
       </div>
       <h1 className="self-center m-8 px-4 text-white text-xl font-bold mb-6">

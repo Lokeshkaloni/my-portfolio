@@ -3,7 +3,7 @@ import react from "react";
 function MyWorks() {
   return (
     <div className="h-full w-screen bg-black space-y-4 flex flex-col text-white p-2">
-      <div className="flex justify-center py-10">
+      <div className="flex justify-center text-center py-10">
         <h1 className="text-yellow-500 text-5xl font-extrabold">
           MY RECENT
           <span className="text-white text-5xl font-extrabold"> PROJECTS</span>

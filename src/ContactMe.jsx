@@ -9,7 +9,7 @@ function ContactMe() {
           <span className="text-white text-5xl font-extrabold"> TOUCH</span>
         </h1>
       </div>
-      <div className="flex flex-col items-center px-6 py-2 h-22">
+      <div className="text-center px-6 py-2 h-22">
         <h1 className="text-2xl font-bold">DON'T BE SHY !</h1>
         <span>
           Feel free to get in touch with me. I am always open to discuss new

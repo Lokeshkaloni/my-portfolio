@@ -4,7 +4,7 @@ import Button from "./Button";
 
 function Homepage() {
   return (
-    <div className="flex flex-col justify-center items-center h-screen w-screen bg-black space-y-4">
+    <div className="flex flex-col justify-center items-center h-screen w-screen bg-hero-pattern space-y-4 object-fill">
       <img
         src=".\images\IMG20210331135102.jpg"
         className="rounded-full object-cover h-52 w-52 border-gray-500 border-2"
